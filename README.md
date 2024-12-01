@@ -1,4 +1,7 @@
-# Template for solving Advent of Code puzzles in Rust with RustRover
+# Advent of Code 2024
+
+This repo is based on the template found here: [Advent of Code in Rust for the Rest of Us](https://blog.jetbrains.com/rust/2024/11/29/advent-of-code-in-rust-for-the-rest-of-us/)
+
 
 ## Usage
 
